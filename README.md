@@ -1,6 +1,11 @@
 Google Drive Recursive Ownership Tool
 ==
 
+Notice
+--
+
+Don't running script on OS X system, may occur error!
+
 Setup
 --
 
